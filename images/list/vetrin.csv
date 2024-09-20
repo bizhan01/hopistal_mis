@@ -1,0 +1,351 @@
+price,name,company
+60,Vail_ فامیلا,
+50,NG_Tube,
+5,Syringe: 10 ml,
+5,Syringe: 5 ml,
+30,Syringe: 20 CC,
+50,Syringe: 60 CC,
+5,Syringe: B.C.G,
+10,چسپ کنول,
+20,Iv_Cannula 22 G,
+20,Iv_Cannula 24 G,
+10,Iv_Set,
+70,Vail_Amoxicllin 1g,
+30,Pow_Potassium parmangnat,
+20,Pow_Crystal Menthol,
+20,Surgical Gloves,
+20,Gaspad,
+90,Serom_Glucos 25%,
+260,Pow_Cranmax,
+15,Pow_Sorbitol,
+10,Pow_O.R.S,
+25,Drop: Glycerin Boric,
+25,Drop: Soda glycerine,
+40,Drop: Oil_Gominol,
+30,Drop: Lugol lodine,
+30,Drop: Glycerin pure,
+10,Amp: Vitamine _C,
+10,Amp: Lignocaine 2%,
+20,Amp: OxyTocin,
+1,Alchopad,
+35,Syp: Norkin plus,
+10,Slo: H2O,
+,Slo: Dettol کلان,
+70,Slo: Dettol خورد,
+50,Pow: Borix,
+50,Pow: Trisoud,
+60,Pow: Firooz Large,
+10,Slo: Gentiavoilet,
+35,Vuil: Ampicillin 1g,
+10,Amp: water,
+200,Cream: Seagull  Kids,
+230,Cream: Seagull 55%,
+250,Cream: Clay,ترکی
+130,Cream: Seugull پولی ویتامینه,ایرانی
+200,Cream: Solaris 35%,
+260,Cream: Aloe_Vera,ترکی
+260,Cream: Jila دور چشم,ایرانی
+280,Cream: Jila 63% بی رنگ,ایرانی
+200,Cream: Sofner,پاکستانی
+380,Cream: Bio Balance,
+290,Cream: Sun Cream,
+320,Cream: UV Shield   50,
+450,Cream: Melaklyr,
+390,Cream: Fair_Pink,پاکستانی
+60,Cream: Saj,
+70,Cream: Jey,
+250,Cream: Meglow BB,
+200,Cream: Jila 35%,
+200,Cream: Jila 30%,
+190,Cream: Seugull 30%,
+155,Cream: Arden 30%رنگی,
+110,Cream: Ardan 25 %,
+190,Cream: Ardan 12%,
+130,Cream: Hydroderm Nipple,
+150,Cream: Caly,
+300,Cream: Schon,
+300,Crem:vitamin c segoll,
+320,Crem:seugull100,
+350,Crem:U.VICHEK,
+350,Crem:Xelite,
+350,Crem:sunprotek 30+,
+60,Soap: Dettol کلان,پاکستانی
+40,Soap: Dettol خورد,پاکستانی
+150,Soap: Sofech,
+130,Soap: DERMACID,
+120,"Soap: N,G",ایرانی
+90,Soap: Xtream,
+150,Soap: SoloGREEN,
+120,Soap: BENZACIDE,
+120,Soap: Scabix,
+90,Soap: Transparent,
+150,Soap: T.C.C,
+120,Soap: Dermitar,
+100,Soap: Glycerina ,جرمنی
+100,Soap: Alo_vera,
+100,Soap: Acnecare,
+100,Soap: Solo_E,
+40,Soap: Firooz,ایرانی
+180,Soap:papaya,
+100,Lot:clotrex,
+40,Cap: Gelopen 400,
+20,Tab: Panadol Cf,
+15,Cap: Tetracyclin  250,
+70,Cap: Cefalexin  500mg,
+20,Tab: Baydal,
+30,Tab: Cold of plus,
+40,Tab: Pirofen 500,
+30,Tab: Rncold plus,
+40,Tab: Pirofen 500,
+30,Tab: Panadol extra,gsk
+100,Shampo: Silnam Sulfate 1%,
+140,Shampo:selenium sulfide 2.5%,
+360,Shampo: Potonic,
+450,Shampo: ONEHAIR ANTI HAIR FALL,
+140,Shampo: Irox,
+150,Shampo: Fulica,
+70,Shampo: Maiu,
+ 150,Shampo: Arden,
+350,Shampo: One_Hair Anti_Danduff,
+350,Shampo: Photonic,
+30,Lotion_ Clobederm,پاکستانی ATCO
+35,Lotion_Clobederm_S,پاکستانی ATCO
+100,Lot_Hivate,پاکستانی Saffron
+50,Lot_Provate,پاکستانی Saffron
+80,Lot_Provate _S,پاکستانی Saffron
+150,Lot_Bio_Clif,پاکستانی Biogen_Ph
+170,Lot_Ticovate,پاکستانی Saffron
+180,Lot_Clindomycin,ایرانی
+120,Lot_Dermsave,پاکستانی
+70,Lot_Clot rimazole,ایرانی
+150,Spray: N.G plus,
+30,Tab: Neumol,
+30,Tab: Medlar,
+10,Tab: Relifa,
+270,cap: Seramol,
+30,Tab: Buscopan Plus,
+10,Tab: Optolaidon,
+20,Tab: Korzin,
+10,Cap : Gricid,هندی
+,Tab: Theopar 500,هندی
+40,Tab: Pirofen 500,ترکی
+50,Tab: PAHV MED,هندی
+20,Tab: Ziclopec,
+10,Tab: Cotremuxa zol,
+70,cap: Amoxil 500 mg,Gsk
+30,cap: Amoxil 500,ایرانی
+50,cap: Ampiclin 500,China
+40,cap: Ampiclin 250,gsk
+10,"Tab: Brufen 200,",پاکستانی
+20,Tab:Brufen.400,پاکستانی
+5,Tab: Colden,پاکستانی
+30,Tab: Tylol 500,ترکی
+30,Tab: Larg cold,هندی
+20,Tab: Flagyl 400,پاکستانی
+30,Tab: Dynalit. Pt,هندی
+50,Tab: Arinac,پاکستانی
+10,Tab: Metrozen,پاکستانی
+10,Tab: Buscopan,پاکستانی
+450,Waist Belt,
+100,Ghoncha,
+300,Lactogan 1 بزرگ ,HALALپاکستانی  
+180,Lactogan کوچک 1,HALALپاکستانی  
+170,Lactogan کوچک 2,HALALپاکستانی  
+300,Lactogan بزرگ  2,HALALپاکستانی  
+300,Lactogan بزرگ  3,HALALپاکستانی  
+170,Lactogan کوچک 3,HALALپاکستانی  
+390,غذایی  BP_5,
+320,Alpha.Ma.Ma,
+320,Biomil 1,
+320,Biomil 2,
+320,Biomil 3,
+450,Biomil _L.F,
+320,Babelac .1,
+320,Babelac .2,
+320,Babelac .3,
+90,غنچه سیرلاک,
+450,Alpha. L F,
+360,Diper_Pedlers بزرگ,
+100,Pedlers کوچک,
+100,Yess. Baby,
+100,Diper_Kinglet 10 کوچک,
+350,Kinglet 36 بزرگ,
+40,Sanny Girl بهداشتی _بالدار,
+30,Tamiz بهداشتی,
+285, Amp: Atem ,
+260,Amp:Clinil Ard,
+300,Amp:Enoxl  0.6,
+520,Amp:Humulin  70/30,
+325,Amp:Lansolin N,
+450,Amp:Mixtard,
+540,Amp:HUMOG 150,
+2500,Amp:AntiD 3000,
+280,Amp:Purearig 5000,
+30,Amp:Hydrocartison,Aboot
+540,Amp:Menodac 150,
+20,Respules:Duolin,
+420,Amp:Puregroirof 75,
+260,Amp:Etrig 200,
+30,     Amp:Cortico 100     ,
+260,Amp:Luigen 200,
+180,Cap: PanToprazole 20,ایرانی تسنیم
+240,Cap: PanToprazole 40,ایرانی تسنیم
+250,cap: PANOCER 40 mg,ترکی iLko
+210,Cap: Nexum 40 mg,Getz
+120,Cap: Nexum 20 mg,Getz
+200,Cap: Risek 40 mg,Getz
+160,Cap: Risek 20 mg,Getz
+150,Cap: Esonix 40 mg,بنگلادیش Incepta
+210,Cap: Esso 40 mg,SHAIGAN
+210,Cap: Gutfate 40,هندی Cooper
+70,Cap: Lomit 40,هندی Belco
+70,Cap:Eslomit 20,Belco
+100,Cap:Eslomit 40,Belco
+120,Cap: Esso 20 mg,SHAIGAN
+250,Cap: Sermol,turky
+90,Cap:Esomezgan 20,BIO LABS 
+110,Cap:Esomezgan 40,BIO LABS
+110,Cap:Esocore40,corona
+120,Cap lancor20,pakistani
+160, گردن بند کلان                    ,
+160, کردن بند متوسط,
+60,چسب جراحی,
+50,Tab: Adoxa,Health_PH
+110,Cap: Monodok,DEVA
+25,Cap: Vibramycin,Pfizer
+250,Tab: MINOGEN,
+,Tab: Epival 500 mg,Abbott
+,Tab: Epival 250 mg,Abbott
+80,Crem :savis,ایرانی
+350,Facewash: softhing,dubai
+350,Facewash:norurishing,Dubai
+350,Face wash Neem,India
+350,Face wash Lemone,India
+380,Shampoo:Foli one,pakistani
+380,Shampoo:fotinic,phakistani
+350,Shampoo:piromin,phakistani
+400,Shampo:Hair Vital,India
+450,Shampo:One Hair Fall,Turky
+320,Sham:One Hair ante.Dandrof,Turky
+130,Shampoo:Fulica تقویتی,ایرانی
+140,Shampoo:Fulica ضدشوره,ایرانی
+150,Shampoo:Irox تقویتی,ایرانی
+150,Shampoo:Irox ضدشوره,ایرانی
+150,           Shampoo:Iroxضد ریزش,ایرانی
+130,Shampo:Dermatar,phakistani
+110,Shampoo:selinum sulfate 1%,Najo
+160,Shampoo:selinum sulfate 2.5,Najo
+130,Shampoo:clear Dont,contry
+180,Shampoo:clear.D+f,
+290,Sahmpo:Maia.Keratin,pakistani
+290,Shampoo:Maia:Gorlic,pakistani
+290,Sampo:maia haircare,pakistani
+400,Sol:Dermarich 2%,turky
+450,Sol:Re Anagen 5%,AFGANISTAN
+170,شامبو ایوان,ایرانی
+90,دستمال  Nino ,ایرانی
+20,برس اطفال ساده,چینایی
+50,برس اطفال موترک,چینایی
+50,متوسط crem:Colget,عربی
+70,کلان crem:Colget,عربی
+70,Crem proteot,عربی
+70,Crem:Doctor کلان,phakistani
+40,Crem:Doctor خورد,phakistani
+50,Shampo: اطفال میامی             ,ایرانی
+70, فیروز بچه:shampo,ایرانی
+80,Shampo:اطفال کلان,عربی
+25,Vasline: کاج,افغانستان
+150,Vasline: عربی کلان,عربی
+60,Vasline: عربی کوچک,
+100,Vasline: عربی متوسط,
+90,Crem:Alae,
+60,Crem:Kids,ایرانی
+70, Cream:Lip Lite,هندی
+10,چوب: دندان ساده,چینایی
+40,چوپ :دندان نخ دار,چینایی 
+40,گوش: پاک کن ,چینایی
+70,Cream:وبکس  عربی,
+40,Pom: ویکس,افغانی
+190,Oil: زیتون  کلان ,عربی
+130, Shampo:ARDENE,ایرانی
+130,Gel Haydrodrem,IRAN
+80,Pow:Vi one,IRAN
+180,Hair oiL florance,U A E
+200,Shampoo:Knazol,istanbol
+200,                Shampo:ketral,istanbol
+150,Crem:Mahtab,A F G
+70,Crem:chagen,ایرانی
+120,Crem:Hydorx,Pakistani
+140,Crem:Gore,Pakistani
+120,Crem:Golden prel,
+30,Brush : yalina ,CHINA
+40,Brush: Darco,P R C 
+30,Brush :2000,CHINA
+30,Brush:Suree,CHINA
+40,Brush:COBOR,P R C
+30,               Brush: D West,P R C
+250,شکم بند,ایرانی
+250,کمر بند ,ایرانی
+30,Bresh:D.r.tart+,P R C
+300,الاستیک بتدا,
+,گج,India
+100,Pow :isbagol fibrecar,India
+150,رنگ موی,China
+70,                           پنبه,ایرانی 
+110,Eff:Daily cal,Pakistani
+40,Pow:borex,A F G 
+70,Sol: Extol,India 
+40,Pow:Tirisud,A F G
+30,Sol:povidone,A F G
+130,Los:kalmosan,Pakistani
+70,Pow: china,
+80,Pow: firooz larg,
+50,Pow: firooz smal,China
+100,Condom:viga,China
+130,Condom:codax,ایرانی
+60,Amp:famila,Pakistani
+20,پودر سوربیتول,A F G
+220,POW:cran pure,Pakistani
+260,Pow:cran Max,Pakistani
+180,Pow:secal,Pakistani
+110,Pow:Risek,GETZ
+200,Pow:cranofit,Pakistani
+110,Pow:جوهرجوشانده ,A f g 
+60,پلاستیک فیروز ,یرانی
+40,Uring Bag,China
+40,NG tube,China
+30,Condom:C.Thetar LARG,Pakistani
+30,Condom.C .T .:Medum,pakistani
+30,Condom:C.T small,pakistani
+10,لب چرپ ساده ,
+80,Lip baim,Dubi
+30,ویکس بینی,India
+30,لپ جرپ مایع,china
+80,آب پاک کن   ,A F G 
+60,باندکشی کلان ,ایرانی
+40,باند کشی متوسط ,ایرانی
+30,باندکشی خورد,ایرانی
+70,کوه نور ایلاستیک بزرگ ,pakistani
+70,آرتهوپلاست بزرگ,pakistani
+40,آرتهوپلاست خورد,pakistani
+70,p.and.bandag,China
+30,کرپ بنداج خورد,China
+60,کرپ بنداج کلان,China
+30,شامپو فیروز خورد,Tran
+30,برس داخل جعبه,China
+190,Gel:Top CHIOCE,
+50,Serom: Mix 1000 Cc,
+40,Serom: Mix 500 Cc,
+55,Serom: Ringer 1000 CC,
+40,Serom: Ringer 500 CC,
+50,Serom: Glucose 1000 Cc,
+40,Serom: Glucose 500 Cc,
+100,Serom:cinaflox ,
+230,Serom:Gelofusin,
+60,Glucose 10%   500cc,
+50,Serom:sudim chloride500cc,
+50,Serom:sudim chloride1000cc,
+130,Serom:Ciplex,
+50,Serom:padi ned,
+350,Serom:Hemacel,
+480,Serom:Aminivil 600,

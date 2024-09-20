@@ -1,0 +1,23 @@
+/**
+*
+*	Name:			Yekan Font
+* 	Version       	1.1
+*	Author:			Abdullah Hussaini
+*	Created on:		Feb 3, 2019
+*	Updated on:
+*
+------------------------------------------------------------------------------
+**/
+
+@font-face {
+    font-family: 'Yekan';
+    font-weight: normal;
+    font-style: normal;
+    src: url('Yekan/Yekan.eot');
+    src: url('Yekan/Yekan.eot?#iefix') format("embedded-opentype"),
+    url('Yekan/Yekan.woff2') format('woff2'),
+    url('Yekan/Yekan.woff') format('woff'),
+    url('Yekan/Yekan.ttf') format('truetype'),
+    url('Yekan/Yekan.otf') format('opentype'),
+    url('Yekan/Yekan.svg#Yakan') format('svg');
+}

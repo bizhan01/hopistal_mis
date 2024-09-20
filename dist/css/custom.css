@@ -1,0 +1,173 @@
+
+/*attach file*/
+.c-upload-btn-wrapper {
+    position: relative;
+    overflow: hidden;
+    display: inline-block;
+}
+
+.c-upload-btn-wrapper input[type=file] {
+    font-size: 100px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    opacity: 0;
+}
+/*end attach file*/
+.time {
+	color: #aaa;
+}
+/*.text-wrapper {
+  width: 250px;
+  display: block;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+*/
+@media(max-width:1000px) {
+  .md-hidden{
+    display: none;
+  }
+}
+@media(max-width: 768px){
+  .sm-hidden {
+    display: none;
+  }
+}
+.btn-more, .course-list-btn{
+  background-color: #f79a2d;
+  color: #222;
+  border-radius: 5px;
+  padding: 3px;
+  margin-left: -10px;
+  margin-top: 30px;
+}
+.course-list-btn {
+  font-size: 18px;
+  padding: 0px 12px;
+}
+.btn-more:hover{
+  color: #000000;
+  background-color: #ff8a00;
+}
+.course-list-btn:hover {
+  color: #000000;
+  background-color: #ff8a00;
+}
+.box-number {
+  display: inline;
+}
+.bmc {
+  background-color: #ff8a00;
+}
+.txt-area-300 {
+  min-height: 300px !important;
+  direction: rtl !important;
+  text-align: right !important;
+}
+.select-h{
+  height: 40px;
+}
+.editInput {
+  width: 100%;
+  border: none;
+  outline: none;
+  /*background-color: red;*/
+  margin-top: 6px;
+  border-bottom: 2px solid #ffffff;
+
+}
+.editInput:hover{
+  border-bottom: 2px solid #ff8a00;
+}
+.editInput:focus{
+  border-bottom: 2px solid #ff8a00;
+}
+.btn-pass-ch {
+  padding-right: 60px !important;
+}
+.mt-30 {
+  margin-top: 30px;
+}
+.mc {
+  color: #ff8a00;
+}
+.c-link {
+  color: #ff8a00;
+}
+.c-link:hover {
+  color: #f79a2d;
+}
+.txt-cat-edit {
+  min-height: 280px;
+  margin-bottom: 10px;
+}
+
+.body-no-padding {
+  padding: 10px 0px;
+}
+.max-w-100 {
+  max-width: 100%;
+}
+.btn-plus {
+  margin-top: -21px;
+}
+.exam_list_i {
+  color: #ff8a00;
+
+}
+.exam_list_i:hover {
+  cursor: pointer;
+}
+.center{
+  text-align: center!important;
+}
+.ltr{
+  direction: ltr;
+}
+
+@media print {
+  .print-only{
+    display: block;
+  }
+  .table-sm-print{
+    padding: 0px;
+    font-size: 9px;
+  }
+
+  .table-sm-print tr, .table-sm-print tr td {
+    padding-top: 0px !important;
+    padding-bottom: 0px !important;
+  }
+
+  .font-console{
+    font-family: Consolas, monaco, monospace; 
+    font-style: normal; 
+    font-variant: normal; 
+    font-weight: 400;
+  }
+  .no-print-overflow{
+    overflow-x: hidden!important;
+  }
+  input[type=text] , select , input[type=number]{
+    border: none!important;
+    padding:none!important;
+    margin:none!important;
+  }
+  .width-print{
+    width:20%!important;
+  }
+  .print-header{
+    display: block;
+  }
+}
+
+.barcode-text{
+  font-size: 8px;
+  display: block; 
+  margin-top: -4px!important;
+}
+.error{
+  border-color: red;
+}

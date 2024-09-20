@@ -1,0 +1,101 @@
+{
+  "_from": "persian-datepicker",
+  "_id": "persian-datepicker@1.1.3",
+  "_inBundle": false,
+  "_integrity": "sha1-Hz3+7yC0GY8wK0eH17CJqHW9eEQ=",
+  "_location": "/persian-datepicker",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "persian-datepicker",
+    "name": "persian-datepicker",
+    "escapedName": "persian-datepicker",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/persian-datepicker/-/persian-datepicker-1.1.3.tgz",
+  "_shasum": "1f3dfeef20b4198f302b4787d7b089a875bd7844",
+  "_spec": "persian-datepicker",
+  "_where": "/opt/lampp/htdocs/hospital/laravel",
+  "author": {
+    "name": "Reza Babakhani",
+    "email": "babakhani.reza@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/babakhani/pwt.datepicker/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "Reza Babakhani",
+      "email": "babakhani.reza@gmail.com"
+    }
+  ],
+  "dependencies": {
+    "jquery": "^2.2.0",
+    "persian-date": "^1.0.4"
+  },
+  "deprecated": false,
+  "description": "jQuery datepicker plugin work with Iranian calendar.",
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-es2015": "^6.24.1",
+    "grunt": "^1.0.1",
+    "grunt-banner": "^0.6.0",
+    "grunt-cli": "^1.2.0",
+    "grunt-contrib-watch": "*",
+    "grunt-jsdoc-to-markdown": "^3.0.0",
+    "grunt-sass": "^2.0.0",
+    "grunt-webpack": "^2.0.1",
+    "hamsterjs": "^1.1.2",
+    "jshint": "^2.6.0",
+    "load-grunt-tasks": "^3.5.2",
+    "markdown-doctest": "^0.9.1",
+    "markdown-link-check": "^3.1.2",
+    "mustache": "=2.3.0",
+    "node-sass": "^4.5.2",
+    "persian-date": "^0.1.8",
+    "pre-commit": "^1.2.2",
+    "sass-lint": "^1.10.2",
+    "simple-server": "^1.0.1",
+    "sync-pkg": "^0.7.2",
+    "webpack": "^2.3.3",
+    "webpack-dev-server": "^2.4.2"
+  },
+  "homepage": "http://babakhani.github.io/PersianWebToolkit/docs/datepicker",
+  "keywords": [
+    "jquery-plugin",
+    "persian-datepicker",
+    "jalali-date",
+    "datetimepicker",
+    "bootstrap-datetimepicker",
+    "persian-date"
+  ],
+  "license": "WTFPL",
+  "name": "persian-datepicker",
+  "pre-commit": [
+    "test"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/babakhani/pwt.datepicker.git"
+  },
+  "scripts": {
+    "build": "rm -fR ./dist/js & rm -fR ./dist/css & rm -fR ./dist/doc & grunt",
+    "doc": "grunt --doc",
+    "doctest": "./node_modules/markdown-doctest/bin/cmd.js README.md && ./node_modules/markdown-link-check/markdown-link-check README.md &&  ./node_modules/markdown-doctest/bin/cmd.js doc/*.md && ./node_modules/markdown-link-check/markdown-link-check  doc/*.md",
+    "eslint": "./node_modules/eslint/bin/eslint.js src/es6",
+    "pre-dev": "sudo npm install -g sync-pkg babel grunt sass-lint pre-commit",
+    "start": "webpack-dev-server & grunt --dev",
+    "sync-pkg": "sync-pkg",
+    "test": "sass-lint -c .sass-lint.yml --verbose & ./node_modules/jshint/bin/jshint src/es6/*.js & ./node_modules/jshint/bin/jshint bower.json & ./node_modules/jshint/bin/jshint package.json && npm run eslint & npm run doctest"
+  },
+  "version": "1.1.3"
+}

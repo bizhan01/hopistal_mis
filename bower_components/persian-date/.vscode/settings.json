@@ -1,0 +1,5 @@
+{
+    "terminal.integrated.env.osx": {
+        "PATH": "/Users/Arsham/.platformio/penv/bin:/Users/Arsham/.nvm/versions/node/v8.1.2/bin:/Library/Frameworks/Python.framework/Versions/3.6/bin:/opt/local/bin:/opt/local/sbin:/usr/local/Cellar/aircrack-ng/1.1_2/sbin:/usr/local/mysql/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/Arsham/Library/Android/sdk/tools:/Users/Arsham/Library/Android/sdk/platform-tools:/Users/Arsham/Bot/driver:/tools:/platform-tools"
+    }
+}
